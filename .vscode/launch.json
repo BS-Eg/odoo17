@@ -8,7 +8,7 @@
             "name": "Python: Terminal",
             "type": "python",
             "request": "launch",
-            "program": "D:/Data/odoo17/setup/odoo",
+            "program": "D:/Data/odoo17/odoo-bin",
             "console": "integratedTerminal"
         },
     ]
