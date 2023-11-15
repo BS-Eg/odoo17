@@ -219,7 +219,7 @@ CSRF_FREE_METHODS = ('GET', 'HEAD', 'OPTIONS', 'TRACE')
 CSRF_TOKEN_SALT = 60 * 60 * 24 * 365
 
 # The default lang to use when the browser doesn't specify it
-DEFAULT_LANG = 'en_US'
+DEFAULT_LANG = 'vi_VN'
 
 # The dictionary to initialise a new session with.
 def get_default_session():
